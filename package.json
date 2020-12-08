@@ -2,7 +2,7 @@
   "name": "ssafyprj.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ssafyprj.github.io",
+  "homepage": "https://ssafyprj.github.io/hello",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
